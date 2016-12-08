@@ -1,5 +1,10 @@
+Fresh Tomatoes Movie Trailer Website
+====================================
+#### Udacity- Project 1
+
 Fresh Tomatoes is a movie trailer website where movie trailers and posters are available for entertainment.
-Prerequisite
+
+## Prerequisite
 1. Download Python
 https://www.python.org/downloads/
 
