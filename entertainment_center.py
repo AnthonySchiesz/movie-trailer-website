@@ -51,6 +51,8 @@ john_wick = media.Movie("John Wick",
 movies = [twenty_one_jump_street, twenty_two_jump_street, goodfellas,
           the_thing, the_lego_movie, oblivion, interstellar, saving_private_ryan,
           john_wick]
+# Uses list of movie instances as input to generate an HTML file
+# and open it in the browser.
 fresh_tomatoes.open_movies_page(movies)
 #print(media.Movie.VALID_RATINGS)
 #print(media.Movie.__doc__)
